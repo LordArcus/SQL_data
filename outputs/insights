@@ -1,0 +1,30 @@
+Insights:
+
+We have 96096 customers where 3.11% customer purchase multiple times but
+only 0.26% customers (loyal) purchase more than 2 times
+
+
+Objective:
+1. find the problem why 96.81% customer didn't purchase
+2. find why we have loyal customer
+3. Increase percentage of loyal customer
+
+
+So i compared between customers that order one time with customers that ordered mulitple time interms of order status and found that
+There's nothing specific but
+mulitple purchase customers cancelled rate: 1.5%
+one time purchase customers cancelled rate: 0.6%
+
+This may be due to 0.7% unavailable rate which is 0.1% higher than unavailable rate of one time purchase customer.
+
+
+
+Also, checked repeated rate by products 
+
+this helps to increase loyal customer 
+
+
+From this we could find repeat_rate_per_categroy and analysis this as:
+less percentage <- need attention, make bundle with high percentage 
+high percentage <- We can increase budget on this and also make discount so that we could increase mulitple purchase
+
